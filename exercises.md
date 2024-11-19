@@ -1,7 +1,7 @@
 ## Logica de Programacion
 ### Escenario 1
 
-Determina el resultado del diagrama cuando `count = 8`:
+Determina el resultado del diagrama cuando `n = 8`:
 
 ![alt text]({95BF65A6-114B-48D3-A781-84AE22E6C9C8}.png)
 
@@ -86,5 +86,4 @@ En base al escenario anterior, responde los siguientese ejercicios
 
 ```
 ### Puntos extra
-
 3. Explica que acciones realizan los comandos que elegiste en ambos ejercicios
