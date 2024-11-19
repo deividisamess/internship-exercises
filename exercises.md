@@ -3,7 +3,7 @@
 
 Determina el resultado del diagrama cuando `count = 8`:
 
-![alt text]({BB21578D-8397-40C5-AE10-7B56070A9654}.png)
+![alt text]({95BF65A6-114B-48D3-A781-84AE22E6C9C8}.png)
 
 ### Escenario 2
 Identifica los errores en el codigo siguiente:
@@ -57,32 +57,34 @@ Representa el circuito lógico que implementa la función booleana simplificada.
 ## Linux Test
 
 ### Escenario
-Se te pidio descargar un binario y ejecutarlo para corroborar que funciona correctamente. Sin embargo, solo tienes acceso al OS desde la linea de comandos. 
-Para lograrlo, se te proprocionaron los siguientes comandos:
-
-
-```bash
-$ wget <url>/binary.bin
-$ chmod +x binary.bin 
-$ ./binary.bin
-```
-### Ejercicios
+Se te pidio descargar un script y ejecutarlo para corroborar que funciona correctamente. Sin embargo, solo tienes acceso al OS desde la linea de comandos. 
 
 En base al escenario anterior, responde los siguientese ejercicios
 
-1. El binario funciona correctamente. Tu mision es moverlo para que sea ejecutable globalmente. Guiate en el siguiente diagrama para realizarlo:
+### Ejercicios
+
+1. Necesitarás obtener el ejecutable de la url `https://example.com/executables/my_program.sh`. Escribe a continuacion tu script:
+
+```bash
+# TODO: Your answer here
+
+```
+2. El binario funciona correctamente. Tu mision es moverlo para que sea ejecutable globalmente. Guiate en el siguiente diagrama para realizarlo:
 
 ```bash
 /📂
 ├── 📂usr 
 │   └── 📁local 
-│       └── 📁bin # your binary should be here
+│       └── 📁bin # your program should be here
 └── 📂home 
     └── 📁 user
-        └── 📃 binary.bin # your binary is here
+        └── 📃 my_program.sh # your program is here
 ```
-2. Explica que acciones realizan los comandos que elegiste
 
+```bash
+# TODO: Your answer here
+
+```
 ### Puntos extra
-3. Para que se utiliza el comando `wget`?
-4. Que cambios realizó el comando `chmod` en el archivo descargado?
+
+3. Explica que acciones realizan los comandos que elegiste en ambos ejercicios
