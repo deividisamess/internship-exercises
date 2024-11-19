@@ -1,7 +1,7 @@
 ## Logica de Programacion
 ### Escenario 1
 
-Determina el resultado del diagrama cuando `count = 8`:
+Determina el resultado del diagrama cuando `n = 8`:
 
 ![alt text]({BB21578D-8397-40C5-AE10-7B56070A9654}.png)
 
