@@ -3,7 +3,7 @@
 
 Determina el resultado del diagrama cuando `count = 8`:
 
-![alt text]({95BF65A6-114B-48D3-A781-84AE22E6C9C8}.png)
+![alt text]({DE6772C5-0E29-4CB3-A82E-445E750DD71D}.png)
 
 ### Escenario 2
 Identifica los errores en el codigo siguiente:
@@ -88,3 +88,7 @@ En base al escenario anterior, responde los siguientese ejercicios
 ### Puntos extra
 
 3. Explica que acciones realizan los comandos que elegiste en ambos ejercicios
+
+## Testing
+
+Imagina que tienes como producto una bicicleta nueva. Se te ha encargado probar los frenos. Describe como harias una prueba para corroborar si funcionan correctamente. Indica tres parametros para validar su funcionamiento.
