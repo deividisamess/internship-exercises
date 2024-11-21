@@ -1,7 +1,4 @@
 # Instrucciones
+Clona o haz fork de este repo. Resuelve las preguntas y sube tus cambios a un repositorio personal.
 
-Clona este repo y crea una rama personal, en ella da tus respuestas a los ejercicios.
-
-Posteriormente sube tus cambios a tu rama. 
-
-Nota: ABSTENERSE DE SUBIR CAMBIOS A LA RAMA MASTER.
+Nota: si lo clonaste recuerda cambiar el remote a la url que apunte a tu propio repositorio.
